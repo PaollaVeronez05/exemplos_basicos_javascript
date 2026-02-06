@@ -125,13 +125,14 @@ Programa que calcula a soma de dois números inteiros informados pelo usuário. 
 ---
 📌Exemplo 5 – Função getElementById()
 
+ Acessa elementos HTML pelo id para ler ou alterar seu conteúdo.
+
 ---
 
 📌Exemplo 6 – Função Date
 
-Resumo: Permite trabalhar com datas e horários no JavaScript, como obter a data atual.
+ Permite trabalhar com datas e horários no JavaScript, como obter a data atual.
 
-Resumo: Acessa elementos HTML pelo id para ler ou alterar seu conteúdo.
 
 ---
 
