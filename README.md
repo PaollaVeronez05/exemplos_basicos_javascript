@@ -65,7 +65,7 @@ Relação entre objetos e métodos.
 ---
 
 📌 Exemplo desenvolvido:
-Programa que solicita o nome do usuário e apresenta uma mensagem de boas-vindas personalizada.
+Programa que solicita o nome do usuário e apresenta uma mensagem de boas-vindas personalizada.Solicita o nome do usuário com prompt() e exibe uma mensagem personalizada usando document.write().
 
 ---
 
