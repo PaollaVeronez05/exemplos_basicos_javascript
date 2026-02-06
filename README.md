@@ -64,8 +64,8 @@ Relação entre objetos e métodos.
 
 ---
 
-📌 Exemplo desenvolvido:
-Programa que solicita o nome do usuário e apresenta uma mensagem de boas-vindas personalizada.Solicita o nome do usuário com prompt() e exibe uma mensagem personalizada usando document.write().
+📌 Exemplo 1 desenvolvido:
+Programa que solicita o nome do usuário e apresenta uma mensagem de boas-vindas personalizada. Solicita o nome do usuário com prompt() e exibe uma mensagem personalizada usando document.write().
 
 ---
 
@@ -79,8 +79,8 @@ Formação de mensagens a partir de diferentes campos de entrada.
 
 ---
 
-📌 Exemplo desenvolvido:
-Concatenação do nome e sobrenome para gerar o nome completo do usuário.
+📌 Exemplo 2 desenvolvido:
+Concatenação do nome e sobrenome para gerar o nome completo do usuário. Une nome e sobrenome em uma única variável usando o operador +.
 
 ---
 
@@ -96,11 +96,11 @@ Apresentação de resultados utilizando alert().
 
 ---
 
-📌 Exemplo desenvolvido:
+📌 Exemplo 3 desenvolvido:
 
 ---
 
-Função responsável por receber dados do usuário e exibir uma saudação personalizada.
+Função responsável por receber dados do usuário e exibir uma saudação personalizada. Utiliza uma função para capturar dados, processar informações e exibir o resultado ao usuário.
 
 ---
 
@@ -116,11 +116,22 @@ Leitura de dois números informados pelo usuário e exibição do resultado fina
 
 ---
 
-📌 Exemplo desenvolvido:
+📌 Exemplo 4 desenvolvido:
 
 ---
 
-Programa que calcula a soma de dois números inteiros informados pelo usuário.
+Programa que calcula a soma de dois números inteiros informados pelo usuário. Converte valores digitados em texto para números inteiros e realiza a soma corretamente.
+
+---
+📌Exemplo 5 – Função getElementById()
+
+---
+
+📌Exemplo 6 – Função Date
+
+Resumo: Permite trabalhar com datas e horários no JavaScript, como obter a data atual.
+
+Resumo: Acessa elementos HTML pelo id para ler ou alterar seu conteúdo.
 
 ---
 
